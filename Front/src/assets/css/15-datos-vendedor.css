@@ -1,0 +1,43 @@
+.formulario-dv {
+  background-color: white;
+  border: #02569c 1px solid;
+  height: 550px;
+  width: 500px;
+  padding: 50px;
+}
+
+.titulo-dv {
+  color: #000000;
+  font-family: "Noto Sans", sans-serif;
+  font-size: xx-large;
+}
+
+.sub-titulo-dv {
+  color: #000000;
+  font-family: "Noto Sans", sans-serif;
+  font-size: large;
+}
+
+.campo-dv {
+  text-align: center;
+  border: #949398 1px solid;
+  height: 20px;
+  width: 300px;
+  color: whitesmoke 0.5px solid;
+  font-family: "Noto Sans", sans-serif;
+  font-size: medium;
+  background-color: rgb(255, 250, 250);
+}
+
+.campo-dv:hover {
+  background-color: #f1ece9;
+}
+
+.button-dv {
+  color: whitesmoke;
+  height: 60px;
+  width: 200px;
+  font-family: "Quintessential", cursive;
+  font-size: xx-large;
+  background-color: #02569c;
+}
